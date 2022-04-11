@@ -1,5 +1,8 @@
 #include "MyForm.h"
+#include "MyForm2.h"
 #include<Windows.h>
+#include <winuser.rh>
+
 using namespace Project1;
 
 int WINAPI WinMain(HINSTANCE, HINSTANCE, LPSTR, int){
